@@ -1,0 +1,39 @@
+# === C / C++ ===
+# Executables and objects
+*.exe
+*.o
+*.out
+*.obj
+output/
+bin/
+debug/
+
+# === Python ===
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# Environments
+.env
+.venv
+env/
+venv/
+
+# === .NET / C# ===
+# Build results
+[Bb]in/
+[Oo]bj/
+# User-specific files
+*.user
+*.userosscache
+*.sln.docuser
+
+# === IDEs and Editors ===
+# VS Code
+.vscode/
+# Visual Studio
+.vs/
+
+# === System Files ===
+Thumbs.db
+.DS_Store
