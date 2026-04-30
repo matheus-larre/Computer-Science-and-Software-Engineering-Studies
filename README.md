@@ -6,8 +6,8 @@ This repository serves as a personal record of my academic and professional grow
 
 ### 🔵 C Programming & Software Design
 *   **Concepts from "Modern Software Engineering" (Valente)**:
-    *   **Cohesion (Chapter 5)**: Comparative study and practical implementations of High vs. Low Cohesion.
-    *   [View Module Details](./Cohesion%20Exercises/README.md)
+    *   **Cohesion (Chapter 5)**: Comparative study of High vs. Low Cohesion. [View Details](./Cohesion%20Exercises/README.md)
+    *   **Coupling (Chapter 5)**: Understanding Tight vs. Loose Coupling for better maintainability. [View Details](./Coupling%20Exercises/README.md)
 
 ### 🐍 Python & Data Analysis
 *   *Coming soon: Integration with financial data and automation bootcamps.*
