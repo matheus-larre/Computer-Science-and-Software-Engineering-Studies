@@ -1,6 +1,7 @@
 # Computer Science & Software Engineering Journey
 
-This repository serves as a personal record of my academic and professional growth in Computer Science and Software Engineering, tracking my learning progress at **CESAR School**.
+> This repository serves as a personal record of my academic and professional growth in Computer Science and Software Engineering,
+> tracking my learning progress at **CESAR School**.
 
 ## 📚 Study Modules
 
